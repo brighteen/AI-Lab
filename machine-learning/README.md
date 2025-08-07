@@ -1,1 +1,1 @@
-# 머신러닝 레포지토리
+# machine learning

@@ -1,1 +1,1 @@
-# 딥러닝 폴더
+# deep learning
