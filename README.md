@@ -2,6 +2,9 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{brighteen}?pet-id=1" width="1000" height="120"/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{username}"/>  
 </a>
 
@@ -125,4 +128,5 @@ AI-LAB/
 이 레포지토리는 학습 자료를 체계적으로 관리하며, 지속적인 업데이트를 통해 더 나은 학습 환경을 제공합니다.
 
 ````
+
 
