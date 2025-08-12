@@ -1,13 +1,12 @@
 # AI-LAB 레포지토리
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{brighteen}?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=brighteen&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/brighteen"
+  width="600"
+  height="300"
+/>
 </a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>  
-</a>
-
 
 AI-LAB은 머신러닝, 딥러닝, 수학 등 AI 학습과 실험 자료를 체계적으로 기록하고 관리하기 위한 공간입니다. 이론과 실습을 분리하여 학습 단계별로 접근성을 높이고, 관련 이미지나 데이터는 `_assets` 폴더를 통해 효율적으로 관리합니다.
 
@@ -128,5 +127,6 @@ AI-LAB/
 이 레포지토리는 학습 자료를 체계적으로 관리하며, 지속적인 업데이트를 통해 더 나은 학습 환경을 제공합니다.
 
 ````
+
 
 
